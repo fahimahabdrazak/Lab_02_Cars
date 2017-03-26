@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Car Sale List</title>
+
+	<link rel="stylesheet" href="css/style.css">            	<!-- to call css style folder -->
+	<script src="js/jquery-3.1.1.min.js"></script>				<!-- to call and use jquery -->
+	
+	<script>
+		$(document).ready(function(){
+		Transform();
+	});
+	</script>
+
+</head>
+<body>
+	<div id="car"></div> 										
+	<script type="text/javascript">
+		function Transform(){
+			var xml = getXMLData("./car_list.xml");				//to call car_list.xml
+			var xsl = getXMLData("./car_list.xsl");				//to call car_list.xsl
+
+			xsltProcessor = new XSLTProcessor();
+			xsltProcessor.importStylesheet(xsl);
+			var result = xsltProcessor.transformToFragment(
+				xml,document);
+
+			$("#car").append(result);							//append by jquery,ajax
+		}
+		function getXMLData(url){								//Retrieve all xml data
+			return $.ajax({
+				type: "GET",
+				url: url,
+				async:false
+			}).responseXML;
+		}
+	</script>
+</body>
+</html>

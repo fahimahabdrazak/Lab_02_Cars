@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="car_list.xsl"?> 
+
+<!-- All of this name or description above is clasify in different src, such as name, owner, year. This is because will further help in display the output easily by implement css, html and xsl. -->
+
+<list> 
+	<car> 
+		<name>Kelvin Lee </name>
+		<owner>DEALER </owner>
+		<ownerno>2</ownerno>
+		<make>Perodua </make>
+		<mode>Kancil </mode>
+		<variant>660 (M) </variant>
+		<condition>Used </condition>
+		<year>2001 </year>
+		<transmission>Manual </transmission>
+		<capacity>0.7L </capacity>
+		<body>Hatchback </body>
+		<location>Kuala Lumpur </location>
+		<warranty>No Warranty </warranty>
+		<mileage>150,000 - 159,999 km </mileage>
+		<colour>Silver Metalic </colour>
+		<price>RM 3,800 </price>
+		<description>Kancil EX 660 (M) Year : 2001 One owner , very good condition ,ori condition view to belive now let go price rm3800 cash only</description>
+		<img1>img/kancil1.jpg</img1>
+		<img2>img/kancil2.jpg</img2>
+		<img3>img/kancil3.jpg</img3>
+		<img4>img/kancil4.jpg</img4>
+		<link>https://www.oto.my/car-for-sale/186890/used-2001-perodua-kancil-660-(m)-kuala-lumpur/</link>
+	</car>
+	<car>
+		<name>Tony Tan </name>
+		<owner>DEALER </owner>
+		<ownerno>2</ownerno>
+		<make>Kia </make>
+		<mode>Spectra </mode>
+		<variant>1.6 LS </variant>
+		<condition>Used </condition>
+		<year>2002 </year>
+		<transmission>Automatic </transmission>
+		<capacity>1.6L </capacity>
+		<body>Sedan </body>
+		<location>Kuala Lumpur </location>
+		<warranty>No Warranty </warranty>
+		<mileage>110,000 - 119,999 km </mileage>
+		<colour>Silver Metalic </colour>
+		<price>RM 5,000 </price>
+		<description>=== 2001 KIA SPECTRA 1.6 AUTO FULL SPEC === ==100% ONE CAREFUL OWNER ==100% LUCKY NUMBER *332* ==100% ORIGINAL FULL LEATHER SEATS ==100% FOUR *LIKE NEW* TYRE ==100% ORIGINAL LIKE NEW PAINT ==100% ABS BREAK SYSTEM AND EBD ==100% ELECTRIC SIDE MIRROR ==100% ORIGINAL TIP-TOP CONDITION == ** KING OF THE CAR ** *********** SPECIAL PROMOTION *********** ** VIEW TO BELIEVE,WELCOME TEST DRIVER ** $$$ CHEAPER IN TOWN $$$ RM5,000 (CASH) EASY DOCUMENT: iC ******100% GOOD TIP-TOP CONDITION****** ****** ========================= ******* 100% * FROG LAMP 100% * VERY LOW MILEAGE 100% * BODY LIKE NEW 100% * ORI'SURROUND SYSTEM 100% * SELDOM USE 100% * SUPER FUEL ECONOMIC 100% * VERY POWERFULL AND COMFORTABLE 100% * RM5,000 (CASH) 100% * ACCIDENT FREE 100% * ORI'SPORT RIM 100% * TIP-TOP ORIGINAL CONDITION 100% * KEEP WELL BY LAST OWNER 100% * TRANMISSION AND SUSPENSION ALL RUNNING GOOD *100% LAST OWNER UPGRADE NEW CAR *100% VERY CLEAN INTERIOR (WELL KEEP) *100% ENGINE PART GOOD (WELL MAINTAIN) *100% SMOOTH GEAR BOX AND ENGINE * 100% AIRCOND GOOD ***ALL KEEP ORIGINAL PART,NO ANY MODIFY ***WELL KEEP BY LAST OWNER,DON'T MISS ***GUARANTEE TIP-TOP CONDITION ***NO NEED REPAIR,JUST DRIVER GO!!! ##### HIGH TRADE IN WELCOME ##### ^^^^^ FREE TINTED ^^^^^ RM5,000 NEGO (CASH)</description>
+		<img1>img/kia1.jpg</img1>
+		<img2>img/kia2.jpg</img2>
+		<img3>img/kia3.jpg</img3>
+		<img4>img/kia4.jpg</img4>
+		<link>https://www.oto.my/car-for-sale/189396/used-2002-kia-spectra-1.6-ls-kuala-lumpur/</link>
+	</car>
+	<car>
+		<name>Rosli Hisham </name>
+		<owner>DIRECT OWNER </owner>
+		<ownerno>1</ownerno>
+		<make>Proton </make>
+		<mode>Savvy </mode>
+		<variant>1.2 AMT </variant>
+		<condition>Used </condition>
+		<year>2007 </year>
+		<transmission>Automatic </transmission>
+		<capacity>1.2L </capacity>
+		<body>Hatchback </body>
+		<location>Negeri Sembilan </location>
+		<warranty>No Warranty </warranty>
+		<mileage>70,000 - 74,999 km </mileage>
+		<colour>Green Metallic </colour>
+		<price>RM 6,000 </price>
+		<description>- Proton Savvy 1.2 AMT for sale - Manufactured 2007, registered 2008 - Complete with all the documents - In excellent running conditions. - Recently service aircond very cold. - Timing belt changed - New battery - Complete with R3 Bodykit - 15' latest sportrim and new tyres (80% thread) - Comes with 6.5' DVD touch screen head unit with reverse camera. - Welcome to view and test drive the car in Seremban areas. - RM6000 only!! Owner upgrade to another car - Welcome to view and test drive the car in Seremban</description>
+		<img1>img/savvy1.jpg</img1>
+		<img2>img/savvy2.jpg</img2>
+		<img3>img/savvy3.jpg</img3>
+		<img4>img/savvy4.jpg</img4>
+		<link>https://www.oto.my/car-for-sale/189922/used-2007-proton-savvy-1.2-amt-negeri-sembilan/</link>
+	</car>
+	<car>
+		<name>Syazman Shahrir </name>
+		<owner>DIRECT OWNER </owner>
+		<ownerno>1</ownerno>
+		<make>Mitsubishi </make>
+		<mode>Triton </mode>
+		<variant>2.5 4x2 </variant>
+		<condition>Used </condition>
+		<year>2008 </year>
+		<transmission>Manual </transmission>
+		<capacity>2.5L </capacity>
+		<body>Pickup </body>
+		<location>Kuala Lumpur </location>
+		<warranty>No Warranty </warranty>
+		<mileage>120,000 - 129,999 km </mileage>
+		<colour>Solid White </colour>
+		<price>RM 24,000 </price>
+		<description>Transmission : Manual Engine : 2.5-litre Diesel SOHC 8-valve Seat : Original Cushion Colour : White Maintenance : Well Maintain By Using Fully Synthetic Engine Oil AC : Well Function Rim :Original Sport Rim Music Player : Kenwood Power Window : Well Function
+		Reason to sell : Didn't need a pickup truck anymore.Buying a new SUV Car. Term : Cash Only/Serious Buyer/No Discount/Deposit needed to secure the vehicle Contact :Call/Whatsapp/iMessage/SMS 
+		~First Come First Serve Basis~</description>
+		<img1>img/triton1.jpg</img1>
+		<img2>img/triton2.jpg</img2>
+		<img3>img/triton3.jpg</img3>
+		<img4>img/triton4.jpg</img4>
+		<link>https://www.oto.my/car-for-sale/189255/used-2008-mitsubishi-triton-2.5-4x2-kuala-lumpur/</link>
+	</car>
+	<car>
+		<name>Jeya Ganesh Subramonie </name>
+		<owner>DIRECT OWNER </owner>
+		<ownerno>1</ownerno>
+		<make>Proton </make>
+		<mode>Satria Neo </mode>
+		<variant>R3 1.6(M)  </variant>
+		<condition>Used</condition>
+		<year>2014 </year>
+		<transmission>Manual </transmission>
+		<capacity>1.6L </capacity>
+		<body>Hatchback </body>
+		<location>Selangor </location>
+		<warranty>3 Years Warranty </warranty>
+		<mileage>30,000 - 34,999 km </mileage>
+		<colour>Silver Metallic </colour>
+		<price>RM 24,000 </price>
+		<description>Bought on Nov 2014. Clean interior and exterior (Non-smoker), Original R3 bucket seat, R3 sport rim, R3 spoiler, Racing bar, all stock parts (never modified anything)</description>
+		<img1>img/neo1.jpg</img1>
+		<img2>img/neo2.jpg</img2>
+		<img3>img/neo3.jpg</img3>
+		<img4>img/neo4.jpg</img4>
+		<link>https://www.oto.my/car-for-sale/189921/used-2014-proton-satria-neo-r3-1.6-(m)-selangor/</link>
+	</car>
+	<car>
+		<name>KY Tai </name>
+		<owner>DIRECT OWNER </owner>
+		<ownerno>1</ownerno>
+		<make>Volkswagen </make>
+		<mode>Beetle </mode>
+		<variant>1.6 </variant>
+		<condition>Used </condition>
+		<year>2010 </year>
+		<transmission>Automatic </transmission>
+		<capacity>1.6L </capacity>
+		<body>Hatchback </body>
+		<location>Selangor </location>
+		<warranty>No Warranty </warranty>
+		<mileage>65,000 - 69,999 km </mileage>
+		<colour>Solid Black </colour>
+		<price>RM 51,000 </price>
+		<description>* PRIVATE SELLER * CAREFUL LADY OWNER * WELL MAINTAINED, CLEAN AND NICE INTERIOR  * CUTE CAR - EXCELLENT AND PRISTINE CONDITION LIKE NEW * FULL VOLKSWAGEN SERVICE RECORD  * MAJOR SERVICE DONE AND TYRES ARE NEW * SPORTY RED INTERIOR LEATHER SEAT * ORIGINAL SPORT RIMS * SMOOTH ENGINE AND GEARBOX * POPULAR MODEL * NICE NUMBER PLATE W** 9929 * AVAILABLE TO VIEW AND TEST DRIVE IN SELANGOR AND KUALA LUMPUR AREA</description>
+		<img1>img/beetle1.jpg</img1>
+		<img2>img/beetle2.jpg</img2>
+		<img3>img/beetle3.jpg</img3>
+		<img4>img/beetle4.jpg</img4>
+		<link>https://www.oto.my/car-for-sale/189781/used-2010-volkswagen-beetle-1.6-selangor/</link>
+	</car>
+</list>
+	

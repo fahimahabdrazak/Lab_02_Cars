@@ -1,0 +1,66 @@
+body {	/*all font under body will used this declaration font*/
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;  
+}
+
+.container {  /*this style used to display a container.*/
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: rgba(12, 49, 48, 0.15);
+  box-shadow: 0 2px 0 gray;
+}
+
+.container-extra {  /*size and padding between the container and the margin*/
+  padding: 10px;
+  margin: 20px 250px; /*top, right, down, right*/
+}
+
+.big-image{			/*this style used to add some features to the image. Big image.*/
+	border-radius: 8px;
+	margin: 3px;
+	width: 242px;
+	height: 145px;
+}
+
+.small-image{		/*this style used to add some features to the image. Small image.*/
+	width: 70px;
+	height: 40px;
+	border-radius: 10px;
+	padding: 0px 5px;
+}
+
+.car-title{			/*this style used to add some features to the title of the car.*/
+	font-size: 18px;
+	font-weight: normal;
+	padding: 5px 10px;
+}
+
+.car-details{		/*this style used to add some features to the details of the car.*/
+	font-size: 12px;
+	font-weight: normal;
+	padding: 0px 10px;
+}
+
+.car-price{			/*this style used to add some features to the price of the car*/
+	font-size: 18px;
+	font-weight: bold;
+	padding: 5px 10px;
+	color: red;
+}
+
+.car-desc{			/*this style used to add some features to the description of the car */
+	font-size: 11px;
+	font-weight: normal;
+	padding: 0px 10px;
+	font-style: italic;
+	color: gray;
+	overflow: hidden;
+  	display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.car-owner{		/*this style used to add some features to the owner name of the car*/
+	font-size: 12px;
+	padding: 50px 10px 0px 10px;
+}
+
